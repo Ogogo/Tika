@@ -10,7 +10,7 @@ Supported formats
 It supports opendocument, office .doc and .docx, pdf, images, videos and
 a lot more !
 
-See http://tika.apache.org/1.1/formats.html for details.
+See http://tika.apache.org/1.7/formats.html for details.
 
 
 Install with composer
